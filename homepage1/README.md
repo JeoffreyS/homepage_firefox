@@ -1,4 +1,5 @@
-The junings StartPage
+StartPage, credits to "iam [at] johnho.ca."
+TLDR; I just made few edits like the wallpapers, the mantra, and some design. Minor details only. Everything else is from the author.
 ===================
 ## FYI
 When you modify some lines in this folder you have to clear the Firefox Quantum cache
